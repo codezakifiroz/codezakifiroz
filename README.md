@@ -2,9 +2,9 @@ public class Firoz
 {
   name = "Firoz Khan",
   nickname = "codezakiFiroz",
-  role = "Java Learner",
+  role = "Programer",
   experience = "2 month",
-  language = {"Java", "C", "HTML5"} 
+  language want to learn = {"C", "C++", "Python"} 
   versionControl = ["Git" "GitHub],
   motto: "Able to learn very complex things in simple terms! 👨‍💻",
 }
