@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#navebar{
+    background-color: black;
+    text-align: end;
+    font-size: large;
+    height: 50px;
+    padding: 20px;
+    
+
+}
+#resume{
+    background-color: rgb(255, 234, 237);
+    padding: 16px;
+    border-radius: 25px;
+    color: white;
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+}
