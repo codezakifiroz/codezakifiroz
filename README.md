@@ -28,7 +28,7 @@ Let's connect and share insights on the latest trends in software development! I
 📧 Contact:
 
 Email: firozkhan907979@gmil.com
-LinkedIn: linkedin.com/in/firozkhan5
+LinkedIn: www.linkedin.com/in/firozkhan5
 
 🌱 Passion for Learning:
 My enthusiasm for learning extends beyond the classroom. Whether it's exploring new programming languages, contributing to open-source projects, or attending tech meetups, I'm always seeking ways to expand my knowledge.
