@@ -17,10 +17,6 @@ Problem Solving: Algorithms, Data Structures
 Bachelor of Bachler in Computer Application
 Career Point University, 2023 - 2026
 
-🌐 Projects:
-
-E-commerce Website (React, Node.js) - Led a team in developing a fully functional e-commerce platform, showcasing skills in frontend and backend technologies.
-Personal Finance App (Python, Flask) - Designed and implemented a financial tracking app for personal budget management.
 
 🔗 Connect with Me:
 Let's connect and share insights on the latest trends in software development! I'm open to collaborations, discussions, and always eager to learn. Feel free to reach out.
