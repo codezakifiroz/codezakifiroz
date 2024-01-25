@@ -6,7 +6,7 @@ Hello there! 👋 I'm Firoz Khan, a passionate 21-year-old software developer st
 
 🚀 Skills Snapshot:
 
-Programming Languages: C, C++
+Programming Languages: Java, C++
 Web Development: HTML, CSS, JavaScript, React
 Database Management: SQL, MongoDB
 Tools & Technologies: Git, VS Code, Docker
