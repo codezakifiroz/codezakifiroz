@@ -30,3 +30,5 @@ LinkedIn: www.linkedin.com/in/firozkhan5
 My enthusiasm for learning extends beyond the classroom. Whether it's exploring new programming languages, contributing to open-source projects, or attending tech meetups, I'm always seeking ways to expand my knowledge.
 
 Let's build a future where innovation knows no bounds! 💻✨ #SoftwareDeveloper #TechEnthusiast #AlwaysLearning
+
+<a href="https://app.daily.dev/codezakifiroz"><img src="https://api.daily.dev/devcards/43c4adac640946d4bfefd161c637a3a3.png?r=ba5" width="400" alt="Firoz Khan's Dev Card"/></a>
