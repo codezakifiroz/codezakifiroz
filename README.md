@@ -31,4 +31,4 @@ My enthusiasm for learning extends beyond the classroom. Whether it's exploring 
 
 Let's build a future where innovation knows no bounds! 💻✨ #SoftwareDeveloper #TechEnthusiast #AlwaysLearning
 
-<a href="https://app.daily.dev/codezakifiroz"><img src="https://api.daily.dev/devcards/43c4adac640946d4bfefd161c637a3a3.png?r=ba5" width="400" alt="Firoz Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/codezakifiroz"><img src="https://api.daily.dev/devcards/v2/K9wOTMOjeaoYzh2tKPVJC.png?r=8k5&type=default" width="356" alt="Firoz Khan's Dev Card"/></a>
