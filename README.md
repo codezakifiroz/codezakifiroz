@@ -1,6 +1,6 @@
 
 
-👨‍💻 Firoz Khan | Software Developer Student
+# 👨‍💻 Firoz Khan | Software Developer Student
 
 Hello there! 👋 I'm Firoz Khan, a passionate 21-year-old software developer student on a journey to explore the dynamic world of technology. Currently pursuing Bachler in Computer Appliction [BCA] at Career Point University, I am deeply immersed in honing my skills in software development.
 
